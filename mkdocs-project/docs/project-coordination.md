@@ -39,7 +39,8 @@ The following are members of the committee and primary subject matter areas of i
 | Craig Godbout   | South Platte and Metro | Colorado Water Conservation Board              | CWCB Liaison                   |
 | Joe Frank       | South Platte           | Lower South Platte Water Conservancy District  | Agricultural                   |
 | Laura Kroeger   | Metro                  | Urban Drainage and Flood Control District      | Municipal (stormwater)         |
-| Rick Marcicek   | Metro                  | South Metro Water District                     | Municipal (supply)             |
+| Rick Marcicek   | Metro                  | South Metro Water Supply Authority             | Municipal (supply)             |
+| Bob Peters      | Metro                  | Denver Water                                   | Municipal (supply)             |
 | Garrett Varra   | South Platte           | Varra Companies, Inc. (aggregate and concrete) | Industrial                     |
 | Lacey Williams  | South Platte and Metro | Education and Outreach Coordinator             | Educational                    |
 | ?               | ?                      | ?                                              | Environmental and Recreational |
