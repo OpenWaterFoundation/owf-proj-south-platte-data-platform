@@ -65,4 +65,5 @@ This repository is maintained by the [Open Water Foundation](http://openwaterfou
 The following release notes indicate the update history for documentation, with GitHub repository issue indicated,
 if applicable (links to issues via README.md are not cleanly supported by GitHub so use the repository issues page to find).
 
+* 2017-11-25 - added dataset diagrams to illustrate how datasets are related and added additional GitHub dataset links
 * 2017-10-29 - initial content
