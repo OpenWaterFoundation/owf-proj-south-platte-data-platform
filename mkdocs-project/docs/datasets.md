@@ -69,10 +69,15 @@ Published versions, including maps, will be made available as soon as possible.
 
 ## Linked Datasets ##
 
-Linked datasets will be created utilizing unique identifiers in different datasets and analyses.
+Linked datasets will be created utilizing unique identifiers in different datasets in order to perform analysis.
 Examples of linked datasets include:
 
-* Using CDSS model datasets to provide simulation data
-* Linking datasets from different government agencies
-* Linking spatial and temporal datasets.
-More information will be added here as foundational datasets are linked to provide additional insight.
+* Using CDSS model datasets to provide estimated natural flows and simulated diversion time series
+* Linking datasets from different government agencies to show water quantity and water quality
+* Linking spatial and temporal datasets to show how water data changes over space and time
+
+The following linked datasets are available:
+
+| Dataset                                   | Description                                                                                                                                      | Link to Version-Controlled Copy                                                                       | Link to Published Dataset |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------- | ------------------------- |
+| owf-data-co-transbasin-diversions         | OWF list of **Colorado transbasin diversions**, with identifiers and locations of source and destination, and time series. | [Dataset on GitHub](https://github.com/OpenWaterFoundation/owf-data-co-transbasin-diversions)                      |                           |
