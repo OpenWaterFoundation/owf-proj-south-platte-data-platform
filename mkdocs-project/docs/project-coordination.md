@@ -133,3 +133,8 @@ coordinated through Colorado Mesa University
 	* Open source software to automate geospatial data processing
 	* Goal is to demonstrate examples of processing workflows so that automation can be used
 	to scale up data processing to support analysis and visualization
+4. [Poudre Runs Through It](http://prti.colostate.edu/)
+	* Steve Malers is a member of this group and is putting together a list of Poudre projects
+	to provide PRTI with context and help with coordination and decisions - this is
+	an opportunity to evaluate connecting local data to Roundtable level
+	* A number of PRTI members are also members of the SP BRT or have been involved in some way
