@@ -14,5 +14,6 @@ fi
 cd ../mkdocs-project
 
 echo "View the website using http://localhost:8000"
+echo "Stop the web server with CTRL-C"
 #mkdocs serve -a 0.0.0.0:8000
 mkdocs serve
