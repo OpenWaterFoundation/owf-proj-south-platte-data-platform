@@ -17,15 +17,12 @@ This page of the documentation provides information to facilitate coordination o
 
 ## Project Scope and Schedule ##
 
-**TODO smalers 2017-10-29 need to summarize scope and schedule - transfer from proposal**
+See the project scope documents:
 
-Initial project focus is:
+* [WSRF Grant Scope of Work - Executive Summary (PDF)](assets/OWF-WSRF-ExecutiveSummary-RoundtableDataPlatform.pdf)
+* [WSRF Grant Scope of Work (PDF)](assets/ExhibitA-SOW-OWF-WSRF-RoundtableDataPlatform.pdf)
 
-* Create project website for coordination (this website)
-* Publish initial foundational datasets and visualizations such as municipalities and water providers
-* Publish Identified Projects and Processes (IPPs) list and map
-* Determine/prototype technologies and process to publish/host data and visualizations, such as CWCB map viewer,
-Colorado Information Marketplace, South Platte Basin website, State Google Cloud Platform, OWF website, etc.
+The project is expected to be completed within 12 months (fall of 2018).
 
 ## South Platte Data Platform Roundtable Committee ##
 
