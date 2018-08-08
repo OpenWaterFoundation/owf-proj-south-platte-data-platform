@@ -7,10 +7,10 @@ Stories are intended to integrate data and science with human connection in orde
 * [Stories of Interest](#stories-of-interest)
 * [Potential Technologies](#potential-technologies)
 * [Stories Being Developed](#stories-being-developed)
-	+ [Story: South Platte Water Entities](#story-south-platte-water-entities) - for context
-	+ [Story: Population Trends and Water Use](#story-population-trends-and-water-use) - urban population increasing, rural not so much
-	+ [Story: South Platte Hydrology and Need for Storage](#story-south-platte-hydrology-and-need-for-storage) - storage balances hydrologic variability
-	+ [Story: South Platte IPP Locations](#story-south-platte-ipp-locations) - projects that address water supply needs
+	+ **Draft has been completed.**  [Story: South Platte Water Entities](#story-south-platte-water-entities) - for context
+	+ **Draft has been completed, included in above story.** [Story: Population Trends and Water Use](#story-population-trends-and-water-use) - urban population increasing, rural not so much
+	+ **Development is in process.** [Story: South Platte Hydrology and Need for Storage](#story-south-platte-hydrology-and-need-for-storage) - storage balances hydrologic variability
+	+ **Draft has been completed.** [Story: South Platte IPP Locations](#story-south-platte-ipp-locations) - projects that address water supply needs
 
 ---------------
 
@@ -18,7 +18,9 @@ Stories are intended to integrate data and science with human connection in orde
 
 Stories of interest to South Platte and Metro Roundtable stakeholders include the following,
 which have been determined based on Roundtable input and correspondence.
-These stories are being evaluated to focus on a subset that can be achieved with available data and other resources.
+These stories were evaluated during the project and should continue to be evaluated in the future.
+The stories selected to be implemented in the project focus on a subset that could be achieved
+with available data and other resources, and which provide useful and timely information.
 Current attention is focusing on [Stories Being Developed](#stories-being-developed).
 
 1. Agricultural
@@ -84,8 +86,10 @@ Current attention is focusing on [Stories Being Developed](#stories-being-develo
 The following are technologies that are being evaluated to implement stories.
 
 * [ArcGIS Story Maps](https://storymaps.arcgis.com/en/)
+* [Fullpage story layout](https://alvarotrigo.com/fullPage/)
+* [Leaflet maps](https://leafletjs.com/)
+* [Bootstrap scrolling web application layout](https://startbootstrap.com/template-overviews/scrolling-nav/)
 * [Observable](https://beta.observablehq.com/?utm_source=blocks) - story notebooks based on [D3.js](https://d3js.org/)
-* [Scrolling web application layout](https://startbootstrap.com/template-overviews/scrolling-nav/)
 
 Considerations for using a specific technology include:
 
@@ -100,12 +104,13 @@ Considerations for using a specific technology include:
 The following stories are actively being developed on this project through the
 efforts of the Open Water Foundation in coordination with South Platte and Metro education committee.
 
-Stories consist of "panels", each of which contain one or more of the following elements:
+Stories consist of "panels" or "sections", each of which contain one or more of the following elements:
 
 * Narrative
 * Image(s)
 * Video
 * Interactive maps
+* Interactive data tables
 * Interactive data visualization(s)
 * Links to other web resources such as data sites, visualizations, and in-depth resources.
 
@@ -117,6 +122,13 @@ For example, it may be necessary to provide a screen image in a panel rather tha
 with link to the live visualization.
 
 ### Story: South Platte Water Entities ###
+
+**The online story is available at the following link.  The ideas below have been substantially incorporated,
+and content is kept below as ideas for additional enhancments.**
+
+* [Story:  Colorado South Platte and Metro Basin Water Entities](http://stories.openwaterfoundation.org/co/swsi-story-sp-entities/)
+
+------------------
 
 This story highlights the various types of water entities such as cities, agriculture, E&R uses.
 The purpose of the story is to provide general context for the number, location, and
@@ -199,11 +211,23 @@ also with graph showing trends across the basin.
 
 ### Story: Population Trends and Water Use ###
 
+**The online story is available at the following link.
+It was decided to included this in the Entities story because of overlapping content and message.
+The ideas below have been substantially incorporated,
+and content is kept below as ideas for additional enhancments.**
+
+* [Story:  Colorado South Platte and Metro Basin Water Entities](http://stories.openwaterfoundation.org/co/swsi-story-sp-entities/)
+
+---
+
 This story highlights population trends in each county (possibly cities).
 
 * See information in the previous story - need to decide to what degree the stories overlap/share.
 
 ### Story: South Platte Hydrology and Need for Storage ###
+
+**The development of this story is in process.  A draft version will be made available for review as soon as possible, planned for August 2018,
+or early September.**
 
 This story highlights hydrologic variability, its challenges, and need for reservoirs to manage water supply across variable hydrologic conditions.
 
@@ -287,9 +311,9 @@ exchanges, redundancy, historical operations, opportunities.
 
 ### Story: South Platte IPP Locations ###
 
-This story focuses on helping Roundtable members understand the status of IPPs.
+This story focuses on helping Roundtable members and the public understand the background and status of IPPs.
 
-There is general interest among Roundtable members in knowing more about "Identified Projects and Processes (IPPs)".
+There is general interest among Roundtable members in knowing more about Identified Projects and Processes (IPPs).
 A list of IPPs was created for the Statewide Water Supply Initiative 2004 project and has been updated over time. 
 However, updates to data have been minimal through SWSI updates and Basin Implementation Plan projects.
 IPPs are indicated in BIP and Colorado Water Plan as a major contributor to meeting new water supply demands.
@@ -299,19 +323,27 @@ represents all IPPs.
 There are also process questions, such as whether a WSRF or other grant project needs to be
 included on the basin's IPP list before being allowed to request funding.
 
-#### Panel 1 - IPP Definition ####
+A draft version of the story has been completed and is available online.
+Three versions of the story were prepared using different technologies in order to evaluate options.
+The content for the stories is the same, but the layout and visualization components vary:
 
-**Narrative**:  Explain what an IPP is so that the remainder of the story makes sense.
+* [South Platte and Metro IPPs (open source tools)](http://stories.openwaterfoundation.org/co/swsi-story-ipps-sp/)
+* [South Platte and Metro IPPs (ArcGIS Story Map cascade layout)](http://stories.openwaterfoundation.org/co/swsi-story-ipps-sp-cascade/)
+* [South Platte and Metro IPPs (ArcGIS Story Map journal layout)](http://stories.openwaterfoundation.org/co/swsi-story-ipps-sp-journal/)
 
-* What is the historical and current definition?  What needs to be explained given the current status of IPP data?
-* Explain important concepts such as IPP type, "growth into existing supply", "yield/capacity",
-how "mature" does an IPP need to be to be on the list, etc.
+Remaining issues to be resolved include:
 
-#### Panel 2 - IPP Map and List ####
-
-**Narrative**:  Show the general location of IPPs to provide spatial context.
-
-* South Platte/Metro IPP data have not traditionally had a simple "general location" or other location.
-This is partially due to large IPPs having complex source/destinations, not a simple location.
-OWF has estimated locations to allow creating a map but additional work needs to be done, such as in the SWSI Update project.
-* See an initial version of the IPP map.  <a href="../stories-images/IPP-map-screenshot_3.png">See also full-size image.</a> ![map](stories-images/IPP-map-screenshot_3.png)
+1. Connecting the story to the [southplattebasin.com](http://southplattebasin.com) website.
+**Lacey Williams to do?**
+2. Get Roundtable input on whether to enable access to IPP data list in machine-readable file and
+coordinate with Roundtable support, CWCB, and SWSI Update team on process to update the list.
+Ideally the story will provide access to a versioned snapshot of the data and
+have a link to the authoritative current version.
+The story content and data analysis process has been designed to be updated to reflect new data.
+Publishing machine-readable IPP data files on the Roundtable website has not been done before.
+**Is a decision needed or just do it?**
+3. Decide whether a contact should be listed in the story, in case there are questions.
+**Need Lacey Williams input.**
+4. Get Roundtable feedback on the story via meeting, webinar, etc.
+This will be coordinated once additional stories are published so they can be discussed together.
+**Steve Malers will coordinate with Casey Davenhill, Lacey Williams and others.**
