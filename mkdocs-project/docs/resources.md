@@ -1,6 +1,7 @@
 # South Platte Data Platform / Resources #
 
 The following are useful resources.
+See also the resources page at the end of each story for a list of links to useful data and information.
 
 ## CWCB ##
 

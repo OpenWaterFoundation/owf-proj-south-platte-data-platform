@@ -1,12 +1,15 @@
 # South Platte Data Platform / Datasets #
 
-The South Platte Data Platform project will improve access to important datasets and use the datasets
+The South Platte Data Platform project improves access to important datasets and uses the datasets
 in visualizations and stories to help the South Platte and Metro Roundtables understand and explain water resources issues
 in the South Platte Basin.
-Many of the datasets will also scale to the entire state.
-However, the project will initially focus on the geographic area of the South Platte Basin.
+Many of the datasets also scale to the entire state but experience has shown that a statewide map can be busy and hard to understand.
+Basin-scale maps appear to be more useful to present information that relates state/basin/local data and issues.
+This project focuses on the geographic area of the South Platte Basin.
 
-The remainder of this page includes the following sections:
+See also the resources page at the end of each story for a list of links to useful data and information.
+
+The remainder of this page includes the following sections, provided as background:
 
 * [Approach to Managing Datasets](#approach-to-managing-datasets)
 * [Foundational Datasets](#foundational-datasets)
